@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@chainlink/functions-toolkit": "^0.2.8",
+    "ethers": "^6.12.1"
+  }
+}
